@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドント・ストップ・ザ・ミュージック",
+  "base_artist": "Rihanna",
+  "createdAt": "2025-12-25T14:00:06.577650Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Stop the Music",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Stop_the_Music_Rihanna.txt"
+    }
+  ]
+}
